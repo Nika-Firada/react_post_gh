@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "History",
+      "datetime": "May 03, 2022 12:21:03 PM",
+      "body": "Lorem Ipsum Dolores"
+    }
+  ]
+}
